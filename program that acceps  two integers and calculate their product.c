@@ -1,3 +1,4 @@
+//program that accepts two integers and calculate their product
 #include<stdio.h>
 int main()
 {
