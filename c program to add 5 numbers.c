@@ -1,3 +1,4 @@
+//program to add five numbers by the user 
 #include<stdio.h>
 int main()
 {
